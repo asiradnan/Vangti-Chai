@@ -29,7 +29,7 @@ An Android app built as one of my first practice projects in an Android developm
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/asiradnan/vangtichai.git
+git clone https://github.com/asiradnan/vangti-chai.git
 ```
 
 ### Build & Run
